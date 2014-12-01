@@ -1,3 +1,7 @@
 mkdir -p 1/2/3/4	create multi-dictionary
 
 mv Note note		change file/folder name
+
+ls -d			dictionary mod
+
+when a dictionary don't have x mod, it cannot be access.

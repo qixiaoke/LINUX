@@ -25,3 +25,5 @@ sudo是linux下常用的允许普通用户使用超级用户权限的工具，�
 
 When dictionary does not have x mod, u can not cd this dictionary.
 When dictionary does not have r mod, u can not ls this dictionary as cd this dictionary. 
+
+The history shell commands are saved in ~/.bash_history

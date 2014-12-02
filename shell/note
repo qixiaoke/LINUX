@@ -21,3 +21,7 @@ sudo是linux下常用的允许普通用户使用超级用户权限的工具，�
 
 
 有SUID权限，执行过程中，会『暂时』获得 root 的权限
+
+
+When dictionary does not have x mod, u can not cd this dictionary.
+When dictionary does not have r mod, u can not ls this dictionary as cd this dictionary. 

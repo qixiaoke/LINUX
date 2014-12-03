@@ -1,1 +1,3 @@
 set tabstop=2	set tab KEY space
+
+help cterm-colors	显示颜色
